@@ -1,7 +1,0 @@
-setup.py
-assgpt.egg-info/PKG-INFO
-assgpt.egg-info/SOURCES.txt
-assgpt.egg-info/dependency_links.txt
-assgpt.egg-info/entry_points.txt
-assgpt.egg-info/requires.txt
-assgpt.egg-info/top_level.txt
