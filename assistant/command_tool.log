@@ -1,0 +1,19 @@
+2024-10-23 15:49:33,649 - INFO - 注册新用户: testuser1
+2024-10-23 15:50:50,503 - INFO - 用户登录成功: testuser1
+2024-10-23 15:51:22,682 - INFO - 用户登录成功: testuser1
+2024-10-23 15:53:25,593 - INFO - 用户登录成功: testuser1
+2024-10-23 15:59:48,150 - INFO - 用户登录成功: testuser1
+2024-10-23 17:17:29,189 - INFO - 用户登录成功: xtq
+2024-10-23 17:18:16,919 - ERROR - OpenAI API error: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-10-23 17:22:08,242 - INFO - Generated command for prompt 'create a file name 'f1'': touch f1
+2024-10-23 17:22:10,845 - INFO - 用户ID 2 执行命令: touch f1
+2024-10-23 17:22:12,432 - ERROR - Add command error: table commands has no column named category_id
+2024-10-23 17:24:26,293 - INFO - 注册新用户: xtq
+2024-10-23 17:24:31,213 - INFO - 用户登录成功: xtq
+2024-10-23 17:24:35,161 - INFO - Generated command for prompt 'create a file name 'f1'': touch f1
+2024-10-23 17:24:36,097 - INFO - 用户ID 1 执行命令: touch f1
+2024-10-23 17:24:36,812 - INFO - 用户ID 1 添加命令: create a file name 'f1' -> touch f1
+2024-10-24 19:54:15,788 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xee6b0839c7a0>: Failed to resolve 'api.chatanywhere.tech' ([Errno -3] Temporary failure in name resolution)")': /chat/completions
+2024-10-24 19:56:29,640 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-24 19:56:31,893 - INFO - 用户ID 1 执行命令: touch test.txt
+2024-10-24 19:56:32,737 - INFO - 用户ID 1 添加命令: 创建一个新文件 test.txt -> touch test.txt

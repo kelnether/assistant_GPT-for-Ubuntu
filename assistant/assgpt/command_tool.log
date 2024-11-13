@@ -1,0 +1,47 @@
+2024-10-23 16:02:03,023 - INFO - 注册新用户: testuser1
+2024-10-23 16:02:05,470 - INFO - 用户登录成功: testuser1
+2024-10-23 16:06:01,688 - INFO - 用户登录成功: testuser1
+2024-10-23 16:07:54,068 - INFO - 用户登录成功: testuser1
+2024-10-23 16:07:56,417 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:08:38,523 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:10:21,234 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:10:22,371 - ERROR - Add command history error: no such table: command_history
+2024-10-23 16:11:27,794 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:11:29,059 - ERROR - Add command history error: no such table: command_history
+2024-10-23 16:11:30,582 - ERROR - Add command error: table commands has no column named category_id
+2024-10-23 16:13:22,001 - INFO - 注册新用户: testuser1
+2024-10-23 16:13:24,656 - INFO - 用户登录成功: testuser1
+2024-10-23 16:13:28,564 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:13:29,720 - INFO - 用户ID 1 执行命令: touch test.txt
+2024-10-23 16:13:31,149 - INFO - 用户ID 1 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-23 16:21:46,795 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:21:50,837 - INFO - 用户ID 1 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-23 16:31:47,166 - INFO - 用户登录成功: testuser1
+2024-10-23 16:33:42,579 - INFO - 用户登录成功: testuser1
+2024-10-23 16:35:26,976 - ERROR - Export commands error: 'CommandDatabase' object has no attribute 'export_commands'
+2024-10-23 16:37:39,277 - ERROR - Import commands error: 'CommandDatabase' object has no attribute 'import_commands'
+2024-10-23 16:38:34,126 - INFO - 用户ID 1 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-23 16:38:34,127 - INFO - 用户ID 1 从 'commands_export.json' 导入命令。
+2024-10-23 16:43:59,270 - INFO - 注册新用户: testuser1
+2024-10-23 16:44:03,623 - INFO - 用户登录成功: testuser1
+2024-10-23 16:44:47,515 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-23 16:44:48,813 - INFO - 用户ID 1 执行命令: touch test.txt
+2024-10-23 16:44:49,967 - INFO - 用户ID 1 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-23 21:13:19,032 - INFO - Generated command for prompt 'create a file name 'f1'': touch f1
+2024-10-23 21:13:20,319 - INFO - 用户ID 1 执行命令: touch f1
+2024-10-23 21:13:20,988 - INFO - 用户ID 1 添加命令: create a file name 'f1' -> touch f1
+2024-10-24 20:06:47,359 - INFO - 注册新用户: xtq
+2024-10-24 20:06:47,795 - INFO - 用户登录成功: xtq
+2024-10-24 20:15:48,897 - INFO - Generated command for prompt 'cpu': top
+2024-10-24 20:15:52,546 - INFO - 用户ID 2 执行命令: top
+2024-10-24 20:15:54,396 - INFO - 用户ID 2 添加命令: cpu -> top
+2024-10-24 20:25:03,965 - INFO - 用户登录成功: xtq
+2024-10-24 20:30:53,608 - INFO - Generated command for prompt 'cpu': top
+2024-10-24 20:31:29,187 - INFO - 用户ID 2 执行命令: top
+2024-10-24 20:31:31,845 - INFO - 用户ID 2 添加命令: cpu -> top
+2024-10-24 20:31:51,553 - INFO - Generated command for prompt '创建一个新文件 test.txt': touch test.txt
+2024-10-24 20:31:57,258 - INFO - 用户ID 2 执行命令: touch test.txt
+2024-10-24 20:31:58,787 - INFO - 用户ID 2 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-24 20:33:40,292 - INFO - 用户ID 2 添加命令: cpu -> top
+2024-10-24 20:33:40,295 - INFO - 用户ID 2 添加命令: 创建一个新文件 test.txt -> touch test.txt
+2024-10-24 20:33:40,296 - INFO - 用户ID 2 从 'commands_export.json' 导入命令。
