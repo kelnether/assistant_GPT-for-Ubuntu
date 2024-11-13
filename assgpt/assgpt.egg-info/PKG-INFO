@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: assgpt
+Version: 0.1
+Requires-Dist: openai
+Requires-Dist: bcrypt
+Requires-Dist: rich

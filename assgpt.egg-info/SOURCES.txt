@@ -1,0 +1,16 @@
+setup.py
+assgpt/__init__.py
+assgpt/auth.py
+assgpt/command.py
+assgpt/commands.py
+assgpt/config.py
+assgpt/database.py
+assgpt/main.py
+assgpt/session.py
+assgpt/utils.py
+assgpt.egg-info/PKG-INFO
+assgpt.egg-info/SOURCES.txt
+assgpt.egg-info/dependency_links.txt
+assgpt.egg-info/entry_points.txt
+assgpt.egg-info/requires.txt
+assgpt.egg-info/top_level.txt
